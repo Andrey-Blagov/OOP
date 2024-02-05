@@ -1,7 +1,7 @@
-package interfaces;
+package Clinic.Animals;
 
 @FunctionalInterface
-public interface Walkable {
+public interface Goable {
     /**
      * public static final
      * constanta creation
@@ -12,7 +12,7 @@ public interface Walkable {
      * public abstract method
      * required methods for
      */
-    double walk();
+    double run();
 
     default void defaultWalk(double speed) {
         System.out.println("Object moving with " + speed);

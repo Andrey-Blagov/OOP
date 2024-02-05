@@ -1,3 +1,5 @@
+package Clinic.Animals;
+
 public class Illness {
     private String title;
 

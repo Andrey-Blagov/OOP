@@ -1,4 +1,4 @@
-package interfaces;
+package Clinic.Animals;
 
 public interface Mathable {
     double addition(double a, double b);
