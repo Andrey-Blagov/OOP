@@ -2,6 +2,7 @@ package HW_4;
 
 import java.util.Iterator;
 
+@SuppressWarnings("unused")
 public class LinkedList extends Node {
     private int size;
 
