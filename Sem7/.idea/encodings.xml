@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/item/Characteristic.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/item/Item.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/item/impl/Bike.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/item/impl/Laptop.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/patterns/generating/builder/task/shop/Shop1.java" charset="windows-1251" />
+  </component>
+</project>
